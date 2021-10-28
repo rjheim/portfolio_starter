@@ -3,3 +3,23 @@
 h1 {
   color: green;
 }
+.main {
+  background-color: #c62346;
+  height: 100%;
+  width: 100%;
+  display:flex;
+  gap:150px;
+}
+
+#nameContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #c76342;
+  width: 50%;
+  height: 500px;
+  margin-top: 0px;
+}
+.mainpic {
+  padding: 20px;
+}
